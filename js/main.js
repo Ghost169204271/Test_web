@@ -145,7 +145,7 @@ var pageElem = $('.page');
 $(document).ready(function() {
     $('#mainpage').fullpage({
 		menu: '#qmenu',
-		anchors: ['home', 'when', 'about-us', 'documents', 'contact'],
+		anchors: ['home', 'about-us', 'schedule', 'documents', 'contact'],
 //        verticalCentered: false,
 //        resize : false,
 //		responsive: 900,

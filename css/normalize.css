@@ -1,3 +1,13 @@
+@font-face {
+  font-family: 'rmfont';
+  src: url("../fonts/rmfont.ttf");
+}
+
+@font-face {
+  font-family: 'STXINGKA';
+  src: url("../fonts/STXINGKA.TTF");
+}
+
 
 html {
   font-family: sans-serif; /* 1 */
